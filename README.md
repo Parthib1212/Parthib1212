@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I+am+Parthib!+Nice+to+meet+you!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&width=435&lines=Hi+I+am+Parthib!+Nice+to+meet+you!!)](https://git.io/typing-svg)
 ## About Me
 
  I'm a Computer Science student at **Landshut University of Applied Science** passionate about **software engineering, AI/ML, robotics**.
